@@ -1,0 +1,5 @@
+---
+title: How can I be a critical consumer of information?
+---
+
+When I saw the [pandemic graphs](https://docs.google.com/document/d/11YMaTBgZHPWetJMGUgmtJ6sUX0wN3jFMmXtKhlKEqnM/edit?tab=t.0), I observed several things that were obvious attempts to hide the truth. The first graph had data points that weren't in chronological order. The counties were ordered to make the biggest bar always be on the left side. This was so obviously an attempt to make it look like COVID cases were going down, even though they weren't. The second graph had the bars be the completely wrong size for the amount they represent. This is borderline lying and completely inaccurately represents how many COVID cases there actually were. The 2nd map in the third graph changed the legend and the number range that each color represented, which makes it look the same as the 1st graph, when there was actually an increase. The pandemic graphs and my observations about them showed I can think about the information I consume, and not immediately believe what I see.

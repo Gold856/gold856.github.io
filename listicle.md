@@ -1,3 +1,7 @@
+---
+title: Listicle
+---
+
 # YouTube, TikTok, and Twitch change our culture and here's 10 reasons to prove it
 
 All sorts of new cultural phenomena have poured out from YouTube, TikTok and Twitch. It's an example of how media allows people to create new culture and spread it. From new slang words to Internet celebrities, these examples would not have had the cultural impact they had without social media.
